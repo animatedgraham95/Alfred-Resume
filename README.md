@@ -1,2 +1,2 @@
 # Alfred-Resume
-Resume projeck
+Resume project
